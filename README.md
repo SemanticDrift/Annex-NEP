@@ -12,7 +12,7 @@
 
 ## What This Does
 
-Derives the complete orbital architecture and boundary mechanics of the Neptunian system from first principles using discrete frequency-phase resonance mapping. By eliminating continuous gravitational parameters and arbitrary mass terms, the configuration of Neptune's fifteen satellites and three primary ring boundaries is formalized using a global lattice resolution of k = 41, anchored to a locked macro-orbital baseline of 164 + 11/14.
+Derives the complete orbital architecture and boundary mechanics of the Neptunian system from first principles using discrete frequency-phase resonance mapping. By eliminating continuous gravitational parameters and arbitrary mass terms, the configuration of Neptune's sixteen satellites and three primary ring boundaries is formalized using a global lattice resolution of k = 41, anchored to a locked macro-orbital baseline of 164 + 11/14.
 
 The system resolves to a non-vanishing residue of ε = -36,219.40 s (≈ -10.061 hours), the measurable signature of an active planetary oscillator rather than a closure failure. The stable latitude of the Great Dark Spot is derived as a direct function of Triton's retrograde field inversion.
 
